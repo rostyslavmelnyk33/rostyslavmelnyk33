@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Rostyslav Melnyk
 
-<!--
-**rostyslavmelnyk33/rostyslavmelnyk33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics Engineering student at KPI.
 
-Here are some ideas to get you started:
+Interested in FPGA, Digital Design and ASIC Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+• SystemVerilog
+• RTL Design
+• Digital Logic
+• Verification Basics
+
+Tools:
+• Verilator
+• Yosys
+• GTKWave
+• Git
+• VS Code
+
+Current Goal:
+Build a portfolio of RTL and verification projects while preparing for an FPGA/ASIC internship.
