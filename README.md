@@ -1,4 +1,4 @@
-Hi, I'm Rostyslav Melnyk
+Hi, I'm Rostyslav
 
 Electronics Engineering student at KPI.
 
